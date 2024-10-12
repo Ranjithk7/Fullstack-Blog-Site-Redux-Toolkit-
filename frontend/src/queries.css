@@ -1,0 +1,26 @@
+@media screen and (max-width: 500px) {
+    nav {
+        background-color: black;
+        text-align: left;
+    }
+    nav li {
+        padding: 0 13px;
+    }
+    nav a {
+        font-size: 16px;
+        padding: 0 ;
+        color: white;
+        font-weight: normal;
+    }
+    nav a:hover {
+        background: none;
+    }
+    .nav-right {
+        top: 0;
+    }
+    
+    button {
+        padding: 0;
+        border: none;
+    }
+}
